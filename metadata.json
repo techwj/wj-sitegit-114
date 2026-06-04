@@ -1,0 +1,59 @@
+{
+  "siteId": "dog-diet-pairing",
+  "generatedAt": "2026-06-04T11:36:18.357611",
+  "categories": [
+    "beginner-dog-diet-pairing",
+    "advanced-dog-diet-pairing",
+    "tips-dog-diet-pairing",
+    "history-dog-diet-pairing",
+    "trending-dog-diet-pairing",
+    "tutorials-dog-diet-pairing"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-dog-diet-pairing",
+      "category_name": "Beginner Dog Diet Pairing"
+    },
+    {
+      "category_slug": "advanced-dog-diet-pairing",
+      "category_name": "Advanced Dog Diet Pairing"
+    },
+    {
+      "category_slug": "tips-dog-diet-pairing",
+      "category_name": "Dog Diet Pairing Tips"
+    },
+    {
+      "category_slug": "history-dog-diet-pairing",
+      "category_name": "Dog Diet Pairing History"
+    },
+    {
+      "category_slug": "trending-dog-diet-pairing",
+      "category_name": "Trending Dog Diet Pairing"
+    },
+    {
+      "category_slug": "tutorials-dog-diet-pairing",
+      "category_name": "Dog Diet Pairing Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "dog-diet-pairing",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Dog Diet Pairing Central",
+    "articles_per_row": 4
+  }
+}

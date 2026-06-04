@@ -1,0 +1,88 @@
+# Validation Report - dog-diet-pairing
+
+Generated: 2026-06-04T11:36:18.356816
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Dog Diet Pairing
+- ✓ Article word count OK: Beginner Dog Diet Pairing: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Dog Diet Pairing
+- ✓ Article word count OK: Beginner Dog Diet Pairing Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Dog Diet Pairing
+- ✓ Article word count OK: Beginner Dog Diet Pairing in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Dog Diet Pairing
+- ✓ Article word count OK: Common Mistakes in Beginner Dog Diet Pairing
+- ✓ Article word count OK: Beginner Dog Diet Pairing for Beginners
+- ✓ Article word count OK: Advanced Beginner Dog Diet Pairing Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Dog Diet Pairing
+- ✓ Article word count OK: Advanced Dog Diet Pairing: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Dog Diet Pairing
+- ✓ Article word count OK: Advanced Dog Diet Pairing Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Dog Diet Pairing
+- ✓ Article word count OK: Advanced Dog Diet Pairing in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Dog Diet Pairing
+- ✓ Article word count OK: Common Mistakes in Advanced Dog Diet Pairing
+- ✓ Article word count OK: Advanced Dog Diet Pairing for Beginners
+- ✓ Article word count OK: Advanced Advanced Dog Diet Pairing Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Diet Pairing Tips
+- ✓ Article word count OK: Dog Diet Pairing Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Diet Pairing Tips
+- ✓ Article word count OK: Dog Diet Pairing Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Diet Pairing Tips
+- ✓ Article word count OK: Dog Diet Pairing Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Diet Pairing Tips
+- ✓ Article word count OK: Common Mistakes in Dog Diet Pairing Tips
+- ✓ Article word count OK: Dog Diet Pairing Tips for Beginners
+- ✓ Article word count OK: Advanced Dog Diet Pairing Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Diet Pairing History
+- ✓ Article word count OK: Dog Diet Pairing History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Diet Pairing History
+- ✓ Article word count OK: Dog Diet Pairing History Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Diet Pairing History
+- ✓ Article word count OK: Dog Diet Pairing History in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Diet Pairing History
+- ✓ Article word count OK: Common Mistakes in Dog Diet Pairing History
+- ✓ Article word count OK: Dog Diet Pairing History for Beginners
+- ✓ Article word count OK: Advanced Dog Diet Pairing History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Dog Diet Pairing
+- ✓ Article word count OK: Trending Dog Diet Pairing: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Dog Diet Pairing
+- ✓ Article word count OK: Trending Dog Diet Pairing Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Dog Diet Pairing
+- ✓ Article word count OK: Trending Dog Diet Pairing in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Dog Diet Pairing
+- ✓ Article word count OK: Common Mistakes in Trending Dog Diet Pairing
+- ✓ Article word count OK: Trending Dog Diet Pairing for Beginners
+- ✓ Article word count OK: Advanced Trending Dog Diet Pairing Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Diet Pairing Tutorials
+- ✓ Article word count OK: Dog Diet Pairing Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Diet Pairing Tutorials
+- ✓ Article word count OK: Dog Diet Pairing Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Diet Pairing Tutorials
+- ✓ Article word count OK: Dog Diet Pairing Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Diet Pairing Tutorials
+- ✓ Article word count OK: Common Mistakes in Dog Diet Pairing Tutorials
+- ✓ Article word count OK: Dog Diet Pairing Tutorials for Beginners
+- ✓ Article word count OK: Advanced Dog Diet Pairing Tutorials Techniques
+- ✓ Ad configuration validated
